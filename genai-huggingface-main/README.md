@@ -113,6 +113,6 @@ You can feel free to contribute by adding mini-projects, improving existing impl
 This project is based on the tutorials and resources provided by Hugging Face, Gradio and Deeplearning.ai short course.
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Lucky-akash321/GenAI-HuggingFace/blob/main/genai-huggingface-main/LICENSE) file for details.
 
 🚀 Happy coding and exploring the world of AI with Hugging Face and Gradio! 🤖
